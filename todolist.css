@@ -9,7 +9,7 @@ div.banner{
   background-image: url("sunset1.jpg"); no-repeat;
   background-size:cover;
 	margin-left: 200px;
-	border: solid: green: 20px;
+	border: solid: green;
 	border-radius: 10px;
 } 
 
