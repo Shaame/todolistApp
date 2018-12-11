@@ -8,8 +8,8 @@ div.banner{
 	height:260px;
   background-image: url("sunset1.jpg"); no-repeat;
   background-size:cover;
-	margin-left: 150px;
-	border: solid green 10px;
+	margin-left: auto;
+	border: solid green 20px
 	border-radius: 10px;
 } 
 
