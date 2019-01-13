@@ -1,7 +1,21 @@
 body{
  background-color:wheat;
 
-} 
+}  
+.pic{ 
+position:absolute;
+ top: 20px;
+ right:20px;
+}
+
+
+ img{ 
+  position:relative;
+   margin-right:50px; 
+    width:150px;
+    height: 200px;
+    border-radius:50px;
+   
 div.banner{
 	position:sticky;
 	width:1024px;
